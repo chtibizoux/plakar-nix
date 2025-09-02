@@ -1,0 +1,16 @@
+# Nix build outputs
+result
+
+# Nix/direnv
+.direnv/
+.envrc
+
+# Nix GC roots (if any)
+.nix-gcroots/
+
+# Editor/OS noise
+*.swp
+*~
+.DS_Store
+.idea/
+.vscode/
